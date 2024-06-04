@@ -15,9 +15,9 @@ const Birthday = ({ name, day, month }) => {
 
   if (name === undefined || day === undefined || month === undefined) {
     // This is if not enough params are provided
-    name = 'Krupanshi'; // Name of the Person
-    month = 8; // Month of the Birthday
-    day = 23; // Day of the Birthday
+    name = 'Krisha'; // Name of the Person
+    month = 7; // Month of the Birthday
+    day = 1; // Day of the Birthday
   }
 
   // get current time
